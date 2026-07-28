@@ -5,8 +5,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EF93C4,50:FF69B4,100:F8BBD0&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F8BBD0,50:EF93C4,100:FF69B4&animation=fadeIn"/>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Snehabvarghese" src="art/header-light.png">
 </picture>
 
 # Hey there, I'm **Sneha B Varghese** 👋
