@@ -40,7 +40,7 @@
 
 </td>
 
-<td width="35%" align="center">
+
 
 <img width="300" src="https://media.giphy.com/media/qgQUggAC3P4K8jg5rl/giphy.gif" alt="Coding GIF"/>
 
