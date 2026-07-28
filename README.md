@@ -4,12 +4,7 @@
 <p align="center">
   <img src=".github/sneha_github_banner (1).png" width="100%" alt="Sneha B Varghese GitHub Banner">
 </p>
-<div align="center">
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Snehabvarghese" src="art/header-light.png">
-</picture>
 
 # Hey there, I'm **Sneha B Varghese** 👋
 
