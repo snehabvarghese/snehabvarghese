@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=snehabvarghese&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=EF93C4"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehabvarghese&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4"/>
+
+
 
 </div>
 
