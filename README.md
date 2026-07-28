@@ -1,7 +1,9 @@
 <!-- ========================================= -->
 <!--            GITHUB PROFILE README          -->
 <!-- ========================================= -->
-
+<p align="center">
+  <img src=".github/sneha_github_banner.png" width="100%" alt="Sneha B Varghese GitHub Banner">
+</p>
 <div align="center">
 
 <picture>
