@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/snehabvarghese](https://www.linkedin.com/in/sneha-b-varghese-092081375" target="_blank">
+<a href="https://www.linkedin.com/in/sneha-b-varghese-092081375" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
